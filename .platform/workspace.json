@@ -1,0 +1,5 @@
+{
+  "buildSystem": "native",
+  "language": "kotlin",
+  "projectName": "family_guard"
+}
